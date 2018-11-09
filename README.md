@@ -9,7 +9,7 @@ This script will only work if you have 10 classes or less. If you have more than
 <h1>How to use</h1>
 <ol>
   <li> Open the script in IDLE
-  <li> Change the values in line 5 to your own classes. ENSURE THAT YOU ARE TYPING IN THE CORRECT VALUES... If you have fewer than 10 classes, just remove the strings you don't need at the end of the list. 
+  <li> Change the values in line 5 to your own classes. ENSURE THAT YOU ARE TYPING IN THE CORRECT VALUES... If you have fewer than 10 classes, just remove the strings you don't need at the end of the list. If you don't, you will attempt to register for nonexistant classes. 
   <li> Open the registration page in a modern browser
   <li> When the page loads, switch to the script. It must be the first thing to be opened using alt-tab. If you mess up, alt-tab back to the page, then alt-tab to the script. 
   <li> Run the script. It will alt tab to the page for you.
